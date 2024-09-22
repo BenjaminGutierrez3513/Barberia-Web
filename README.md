@@ -1,2 +1,2 @@
 # Barberia-Web
-Proyecto de pagina web para barbería de barrio
+Proyecto en curso de pagina web para barbería de barrio, el cual tendra toma de horas, perfil de barberos, valores, servicios y un apartado de comentarios y sugerencias.
